@@ -1,92 +1,83 @@
-body{
-    font-family: 'Raleway', sans-serif; 
+body {
+  font-family: "Raleway", sans-serif;
 }
 
 /* NAVBAR */
-.img-viajes-chile{
-    max-width: 5%;
+.img-viajes-chile {
+  max-width: 5%;
 }
-
 
 /* SECCION QUIENES SOMOS */
 
-.quienes-somos{
-    display: flex;
-    justify-content: center;
-    color:#fff;
+.quienes-somos {
+  display: flex;
+  justify-content: center;
+  color: #fff;
 }
 
-.quienes-somos, .destacados, .contacto{
-    background-color: #000000;
-    padding: 2rem 0;
+.quienes-somos,
+.destacados,
+.contacto {
+  background-color: #000000;
+  padding: 2rem 0;
 }
-.quienes-somos-icons{
-    background-color: #0BC8F6;
-    color: #fff;
-    font-size:22px ;
-}
-
-h2{
-    color: #fff;
+.quienes-somos-icons {
+  background-color: #0bc8f6;
+  color: #fff;
+  font-size: 22px;
 }
 
-hr{
-    background-color: #FFF;
+h2 {
+  color: #fff;
 }
 
+hr {
+  background-color: #fff;
+}
 
 /* SECCION DESTACADOS */
 
-.card{
-    border-color: #fff;
-  
+.card {
+  border-color: #fff;
 }
-.card-body{
-    background-color: #0BC8F6;
-    color: #fff;
+.card-body {
+  background-color: #0bc8f6;
+  color: #fff;
 }
 
 /* SECCION CONTACTO */
 
-form{
-    color: #fff;
+form {
+  color: #fff;
 }
 
-.btn-primary{
-  background-color:#0BC8F6;
+.btn-primary {
+  background-color: #0bc8f6;
 }
-
 
 /* SECCION FOOTER */
 
-.footer_viajes{
-    background-color: #0BC8F6;
-    color: #fff; 
+.footer_viajes {
+  background-color: #0bc8f6;
+  color: #fff;
 }
-.contenedor_footer{
-    display: flex;
-    justify-content: center;
-    padding: 2rem 0;
+.contenedor_footer {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
 }
-.contenedor_footer p{
-    font-size: 20px;
+.contenedor_footer p {
+  font-size: 20px;
 }
-.icons-footer{
-    color: #0BC8F6;
-    font-size: 20px;
-    text-align: center;
+.icons-footer {
+  color: #0bc8f6;
+  font-size: 20px;
+  text-align: center;
 }
-.icons-footer i{
-    background-color: #fff;
-    padding: 0.2rem;
-    width: 1.6rem;
-    text-align: center;
-    margin: 0 0.3rem;
+.icons-footer i {
+  background-color: #fff;
+  padding: 0.2rem;
+  width: 1.6rem;
+  text-align: center;
+  margin: 0 0.3rem;
 }
-
-
-    .contenedor_footer{
-        display: flex;
-        justify-content: center;
-        padding: 2rem 0;
-    }
