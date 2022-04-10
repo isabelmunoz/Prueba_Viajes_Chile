@@ -83,3 +83,10 @@ form{
     text-align: center;
     margin: 0 0.3rem;
 }
+
+
+    .contenedor_footer{
+        display: flex;
+        justify-content: center;
+        padding: 2rem 0;
+    }
