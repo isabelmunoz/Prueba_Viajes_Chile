@@ -14,3 +14,7 @@ function clickHandler(e) {
         behavior: "smooth",
     });
 }
+
+$( ".card-title" ).click(function() {
+    $( ".card-text" ).toggle();
+  });
