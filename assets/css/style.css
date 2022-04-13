@@ -87,3 +87,8 @@ form {
     text-align: center;
     margin: 0 0.3rem;
 }
+.cambio_size{
+    background-color: #0bc8f6;
+    padding: 0.2rem;
+    font-size: 2.2rem;
+}
